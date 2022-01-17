@@ -32,9 +32,19 @@
 ### 编辑器
 - [vscode（Visual Studio Code）](https://code.visualstudio.com/)
 
+- [Visual Studio](https://visualstudio.microsoft.com/zh-hans/)， *Windows 下 [C++](https://docs.microsoft.com/en-us/cpp/) 开发首选推荐*
+
 - [Atom](https://github.com/atom/atom)
 
 - [Vim](https://www.vim.org/) [备链-1](https://github.com/vim/vim)
 
 - [Emacs（GNU Emacs）](https://www.gnu.org/software/emacs/)
 
+- [Sublime Text 4](https://www.sublimetext.com/blog/articles/sublime-text-4)，*付费软件*
+
+#### 编辑器学习难度对比
+- 一些编辑器的经典学习曲线
+<img src="../imgs/editor_cmp1.jpg" width="700" height="400" align=center>一些编辑器的经典学习曲线</img>
+
+- 几个文本编辑器的学习曲线
+<img src="../imgs/editor_cmp2.jpg" width="700" height="550" align=center>一些编辑器的经典学习曲线</img>
