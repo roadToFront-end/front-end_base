@@ -43,8 +43,12 @@
 - [Sublime Text 4](https://www.sublimetext.com/blog/articles/sublime-text-4)，*付费软件*
 
 #### 编辑器学习难度对比
-- 一些编辑器的经典学习曲线<br>
-<img src="../imgs/editor_cmp1.jpg" width="700" height="400" align=center></img>
-
-- 几个文本编辑器的学习曲线<br>
-<img src="../imgs/editor_cmp2.jpg" width="700" height="550" align=center></img>
+- [一些编辑器的经典学习曲线](../imgs/editor_cmp1.jpg)
+  <details>
+    <img src="../imgs/editor_cmp1.jpg" width="700" height="400" align=center></img>
+  </details>
+  
+- [几个文本编辑器的学习曲线](../imgs/editor_cmp2.jpg)
+  <details>
+    <img src="../imgs/editor_cmp2.jpg" width="700" height="550" align=center></img>
+  </details>
