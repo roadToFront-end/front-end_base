@@ -1,9 +1,18 @@
-<!DOCTYPE html>
+<!-- Simple for HTML5 -->
+<!DOCTYPE html> 
+<!--
+Just for XHTML 1.0 Strict：
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+HTML4
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+-->
 
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
         <title>A Template HTML Page</title>
         <meta name="description" content="This is a simple html template Page">
@@ -15,13 +24,13 @@
         <meta property="og:url" content="https://github.com/roadToFront-end/front-end_base">
         <meta property="og:description" content="A simple HTML5 Template for new projects.">
         <meta property="og:image" content="image.png">
-        
-        <link rel="icon" href="/favicon.ico">
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
-        <link rel="stylesheet" href="css/hello.css">
+        <meta name="mobile-web-app-capable" content="yes">
+        <link rel="icon" sizes="196x196" href="/favicon.ico">
+        <link rel="icon" sizes="196x196" href="/favicon.svg" type="image/svg+xml">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
 
+        <link rel="stylesheet" href="css/hello.css?v=1.0">
     </head>
 
     <body>
@@ -32,5 +41,20 @@
         <p>This is another paragraph.</p>
         <a href="https://www.geekpanshi.com/panshi/">This is a link container.</a></br>
         <img src="https://raw.githubusercontent.com/roadToFront-end/front-end_base/master/imgs/html_tmp_1.jpg" alt="Diif between front-end and front-backend." width="300" height="300">
+
+        <h2>This is a Lists part.</h2>
+        <ul>
+            <li>Technologists</li>
+            <li>Thinkers</li>
+            <li>Builders</li>
+        </ul>
+        <h2>Templete in HTML5</h2>
+        <!-- Html script tag starts here -->
+        <template>
+            <h3>A computer science portal</h3>
+        </template>
+        <!-- Html template tag ends here -->
+        <p>End of the example of template tag</p>
+
     </body>
 </html>
