@@ -1,7 +1,10 @@
 # front-end_base
 ---
 
-## [html_template.html](https://raw.githubusercontent.com/roadToFront-end/front-end_base/master/html_template.html)
+## [HTML5 学习之路][/html5.md] 
+### 一个基本的 HTML 页面模板
+[html_template.html](https://raw.githubusercontent.com/roadToFront-end/front-end_base/master/html_template.html)
+
 A simple html template for beginer, the following it's all the keyworlds used in html_template.html .
 
 ```html
