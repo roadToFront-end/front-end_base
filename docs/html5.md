@@ -2,9 +2,9 @@
 
 ---
 
-## [Issue](https://github.com/roadToFront-end/front-end_base/issues/1)
+### [Issue](https://github.com/roadToFront-end/front-end_base/issues/1)
 
-## 1. 基础
+### 1. 基础
 1.1 如何浏览和编辑 HTML 文件
 > vscode vim atom emacs notepad++ PhpStorm
 
@@ -14,7 +14,7 @@
 
 1.4 学习 HTML 文档的基本元素： `<base>` `<link>` `<meta>` `<style>` 等元素
 
-## 2. HTML 段落相关元素
+### 2. HTML 段落相关元素
 ```html
 <body>
 <article>
@@ -27,7 +27,7 @@
 <address>
 ```
 
-## 3. HTML 分组相关元素
+### 3. HTML 分组相关元素
 ```html
 <main>
 <div>
@@ -39,7 +39,7 @@
 <pre>
 ```
 
-## 4. HTML 文本段落相关元素
+### 4. HTML 文本段落相关元素
 ```html
 <a>
 <em>
@@ -51,7 +51,7 @@
 <abbr>
 ```
 
-## 5. 链接
+### 5. 链接
 5.1 学习 `href` 属性
 
 5.2 学习 `target property` 和 `possible values` 之间的差异
@@ -62,7 +62,7 @@
 
 5.5 了解如何导航到页面的特殊部分
 
-## 6. 图片
+### 6. 图片
 
 6.1 如何使用 `src` 去嵌入一个图片
 
@@ -78,7 +78,7 @@
 
 6.7 学习如何通过 `<img>` 和 `<source>` 来做自适应图片
 
-## 7. 表单
+### 7. 表单
 7.1 学习基本的 `input` 类型
 ```html
 button
@@ -101,7 +101,7 @@ search
 
 7.5 学习 `<textare>` `<select>` `<optgroup>` `<fieldset>` `<legend>` 。
 
-## 8. 表格
+### 8. 表格
 8.1 如何制作一个 web 表格
 
 8.2 通过控制属性：`<action>` `<enctypes>` `<method>` `<target>` 来配置表格
@@ -114,7 +114,7 @@ search
 
 8.6 如何重置一个表单
 
-## 9. 事件
+### 9. 事件
 9.1 窗口事件
 ```html
 onbeforeunload
@@ -145,7 +145,7 @@ onresize
 onsubmit
 ```
 
-## 10. 窗口对象
+### 10. 窗口对象
 10.1 如何获取内部高度和宽度值
 
 10.2 学习 `pageYOffset` 和 `pageYoffset` 属性
@@ -156,7 +156,7 @@ onsubmit
 
 10.5 学习 `window.location` 对象。
 
-## 11 Web APIS 和 Interfaces
+### 11 Web APIS 和 Interfaces
 11.1 网络存储：本地存储、会话存储
 
 11.2 `URLSearchParams API`
