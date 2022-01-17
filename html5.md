@@ -51,18 +51,29 @@
 
 ## 5. 链接
 5.1 学习 `href` 属性
+
 5.2 学习 `target property` 和 `possible values` 之间的差异
+
 5.3 学习 相对 和 绝对 url 链接的区别
+
 5.4 学习如何使用 `download` 和 `rel` 属性
+
 5.5 了解如何导航到页面的特殊部分
 
 ## 6. 图片
+
 6.1 如何使用 `src` 去嵌入一个图片
+
 6.2 学习如何格式化图片
+
 6.3 学习 `alt` 属性
+
 6.4 学习如何通过 `loading` 属性给图片进行懒加载
+
 6.5 学习如何通过 `height` 和 `width` 属性来控制图片大小
+
 6.6 学习如何通过 `<picture>` 和 `<source>` 来做自适应图片
+
 6.7 学习如何通过 `<img>` 和 `<source>` 来做自适应图片
 
 ## 7. 表单
@@ -90,10 +101,15 @@ search
 
 ## 8. 表格
 8.1 如何制作一个 web 表格
+
 8.2 通过控制属性：`<action>` `<enctypes>` `<method>` `<target>` 来配置表格
+
 8.3 学习表单如何提交属性
+
 8.4 如何执行客户端表单验证
+
 8.5 如何让表单按钮提交提交表单
+
 8.6 如何重置一个表单
 
 ## 9. 事件
@@ -129,18 +145,30 @@ onsubmit
 
 ## 10. 窗口对象
 10.1 如何获取内部高度和宽度值
+
 10.2 学习 `pageYOffset` 和 `pageYoffset` 属性
+
 10.3 学习 `psetInterval`  `setTimeout` `clearInterval` `clearTimeout` 方法
+
 10.4 学习 `scrollTo` 方法
+
 10.5 学习 `window.location` 对象。
 
 ## 11 Web APIS 和 Interfaces
 11.1 网络存储：本地存储、会话存储
+
 11.2 `URLSearchParams API`
+
 11.3 `Geolocation API`
+
 11.4 `ResizeObserver API`
+
 11.5 `Drag API` 和 `Drop API`
+
 11.6 `History API`
+
 11.7 `Intersection Observer API`
+
 11.8 `Fetch API`
+
 11.9 网络通知
