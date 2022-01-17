@@ -1,7 +1,7 @@
 # front-end_base
 ---
 
-## [HTML5 学习之路][/html5.md] 
+## [HTML5 学习之路](/html5.md) 
 ### 一个基本的 HTML 页面模板
 [html_template.html](https://raw.githubusercontent.com/roadToFront-end/front-end_base/master/html_template.html)
 
