@@ -1,7 +1,10 @@
 # front-end_base
 ---
 
-## html_template.html
+## [html_template.html](https://raw.githubusercontent.com/roadToFront-end/front-end_base/master/html_template.html)
+A simple html template for beginer, the following it's al the keywords used in html_template.html .
+
+```html
 1. <!doctype html> 
 指定文档的类型为 `html` 文件。
 
@@ -28,3 +31,4 @@
 - <a></a>
 链接
 - <img></img>
+```
