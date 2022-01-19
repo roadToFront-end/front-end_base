@@ -16,7 +16,26 @@
     <p>This is my html test and it's using Simple.css file, you can <a href="https://www.geekpanshi.com/panshi/">visit this site.</a></p>
     <h1 style="color: rgb(173, 237, 100);">Another H1 header defined by inline css-style</h1>
     <h1>Another H1 header defined by internal css</h1>
-    <style> h1{color:rgb(0, 102, 255);} </style> 
+    <style> h1{color:rgb(0, 102, 255);} </style>
+
+    <h2>use es6 module in html</h2>
+    <p><script type="module" src="js/esmain.mjs"></script></p>
+    <p><script nomodule src="js/script.js"></script></p>
+    <p><script nomodule defer src="js/script.js"></script></p>
+
+    <p><script type="module" src="js/script.js"></script></p>
+    <script type="module">import './js/script.js';</script>
+
+    <script type="module">
+        (async () => {
+            const moduleSpecifier = './js/eslib.mjs';
+            const {repeat, shout} = await import(moduleSpecifier);
+            console.log(repeat('hello'));
+            // → 'hello hello'
+            console.log(shout('Dynamic import in action'));
+            // → 'DYNAMIC IMPORT IN ACTION!'
+        })();
+    </script>
 </main>
 
 <footer>

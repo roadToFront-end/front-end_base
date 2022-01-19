@@ -53,7 +53,6 @@ A simple html template for beginer, the following it's all the keyworlds used in
 8. <template> </template>
 keywords for HTML5, Syntax:
     `<template> Contents </template>`
-
 ```
 
 ## 3. [CSS 学习之路](/docs/css.md)
@@ -68,7 +67,7 @@ keywords for HTML5, Syntax:
 
 ### 5.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/4)
 
-## 6. [后端 学习之路相关](/docs/front-backend.md)
+## 6. [后端学习之路相关](/docs/front-backend.md)
 
 ### 6.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/5)
 
