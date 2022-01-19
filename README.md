@@ -73,4 +73,8 @@ keywords for HTML5, Syntax:
 
 ### 7. [学习前端工具相关](/docs/tools.md)
 
-#### 7.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/6)
+#### 7.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/7)
+
+### 8. [UI/UX 及其他相关](/docs/ui.md)
+
+#### 8.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/8)
