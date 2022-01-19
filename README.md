@@ -2,15 +2,15 @@
 
 ## 1. 前端、后端学习路径
 
-- 100 天学习前端的路径示意图
-  <details>
-    <img src="https://raw.githubusercontent.com/apanshi/pics_center/master/tech/front-end.png" width="692" height="485" align=center> </img>
-  </details>
+100 天学习前端的路径示意图
+<details>
+  <img src="https://raw.githubusercontent.com/apanshi/pics_center/master/tech/front-end.png" width="692" height="485" align=center></img>
+</details>
 
-- 100 天学习后端的路径示意图
-  <details>
-    <img src="https://raw.githubusercontent.com/apanshi/pics_center/master/tech/front-backend.png" width="692" height="582" align=center> </img>
-  </details>
+100 天学习后端的路径示意图
+<details>
+  <img src="https://raw.githubusercontent.com/apanshi/pics_center/master/tech/front-backend.png" width="692" height="582" align=center></img>
+</details>
 
 ## 2. [HTML5 学习之路](/docs/html5.md)
 
@@ -18,9 +18,7 @@
 
 ### 2.2 一个基本的 HTML 页面模板
 
-[html_template.html](https://raw.githubusercontent.com/roadToFront-end/front-end_base/master/html_template.html)
-
-A simple html template for beginer, the following it's all the keyworlds used in `html_template.html` .
+[html 文件模板](https://raw.githubusercontent.com/roadToFront-end/front-end_base/master/html_template.html) 一个面向初学者的 HTML 的模板, 以下是这个模板中使用的关键字解释。
 
 ```html
 1. <!doctype html>
