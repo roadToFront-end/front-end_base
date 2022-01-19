@@ -2,8 +2,6 @@
 
 ---
 
-## [Issue](https://github.com/roadToFront-end/front-end_base/issues/6)
-
 ## 版本控制
 
 - [Git](https://git-scm.com/)

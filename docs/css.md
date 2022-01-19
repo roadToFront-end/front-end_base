@@ -2,8 +2,6 @@
 
 ---
 
-## [Issue](https://github.com/roadToFront-end/front-end_base/issues/2)
-
 ## CSS 学习笔记
 
 ### 1. CSS 语法

@@ -2,8 +2,6 @@
 
 ---
 
-## [Issue](https://github.com/roadToFront-end/front-end_base/issues/1)
-
 ## 1. 基础
 
 1.1 如何浏览和编辑 HTML 文件

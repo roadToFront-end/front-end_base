@@ -2,8 +2,6 @@
 
 ---
 
-## [Issue](https://github.com/roadToFront-end/front-end_base/issues/4)
-
 ## 关于 React 的学习
 
 ### 1. 准备工作

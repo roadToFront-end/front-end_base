@@ -16,42 +16,7 @@
 
 ### 2.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/1)
 
-### 2.2 一个基本的 HTML 页面模板
-
-[html 文件模板](https://raw.githubusercontent.com/roadToFront-end/front-end_base/master/html_template.html) 一个面向初学者的 HTML 的模板, 以下是这个模板中使用的关键字解释。
-
-```html
-1. <!doctype html>
-指定文档的类型为 `html` 文件。
-
-2. <html> </html>
-定义具体的 HTML 文件内容。
-
-3. <head> </head>
-包含附属文档信息的容器部分。
-
-4. <title> </title>
-定义文档标题部分。
-
-5. <meta>
-定义描述文档的信息。
-
-6. <body> </body>
-保存文档内容的容器。
-
-7. others
-- <h1></h1>
-标题
-- <p></p>
-段落
-- <a></a>
-链接
-- <img></img>
-
-8. <template> </template>
-keywords for HTML5, Syntax:
-    `<template> Contents </template>`
-```
+### 2.2 [一个基本的 HTML 页面模板](/docs/html_template.md)
 
 ## 3. [CSS 学习之路](/docs/css.md)
 
