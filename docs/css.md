@@ -18,9 +18,9 @@ H1       { color:blue; font-size: 12px; }
     ```HTML
     <head>
         <meta charset="utf-8”>
-        <title>Document</title> 
-        <link rel="stylesheet" href="CSS/style.css">
-        <link rel="stylesheet" href="CSS/hello.css">
+        <title>Document</title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/mini.css">
     </head>
     ```
 
@@ -29,7 +29,7 @@ H1       { color:blue; font-size: 12px; }
     ```HTML
     <head>
         <meta charset="utf-8”>
-        <title>Document</title> 
+        <title>Document</title>
         <style> title { color:red; }</style>
     </head>
     ```
@@ -39,7 +39,7 @@ H1       { color:blue; font-size: 12px; }
     ```HTML
     <head>
         <meta charset="utf-8”>
-        <title style="color: red;">Document</title> 
+        <title style="color: red;">Document</title>
     </head>
     ```
 
