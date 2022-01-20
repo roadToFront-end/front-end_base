@@ -7,7 +7,8 @@
 ### 1. CSS 语法
 
 ```css
-Selector Declaration   Declaration
+选择器  声明           声明   
+            属性:值        属性:值  
 H1       { color:blue; font-size: 12px; }
 ```
 
@@ -47,4 +48,78 @@ H1       { color:blue; font-size: 12px; }
 
 ```HTML
 Inline CSS  >>> External CSS & Internal CSS
+```
+
+### 4. 常见选择器的属性
+
+#### 4.1 文本
+
+``` CSS
+color
+font
+font-family
+font-size
+font-weight
+letter-spacing
+line-height
+text-align
+text-decoration
+text-indent
+text-transform
+vertical-align
+```
+
+#### 4.2 列表
+
+``` CSS
+list-style
+list-style-image
+list-style-position
+list-style-type
+```
+
+#### 4.3 背景
+
+``` CSS
+backgrooud
+background-attachment
+background-color
+background-image
+background-position
+background-repeat
+```
+
+#### 4.4 显示
+
+``` CSS
+display
+float
+clear
+overflow
+visibility
+```
+
+#### 4.5 位置
+
+``` CSS
+position
+top
+bottom
+left
+right
+z-index
+```
+
+#### 4.6 框盒
+
+``` CSS
+border
+border-color
+border-style
+border-width
+height
+margin
+padding
+width
+box-sizing
 ```
