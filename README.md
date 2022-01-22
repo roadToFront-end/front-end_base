@@ -12,6 +12,10 @@
   <img src="https://raw.githubusercontent.com/apanshi/pics_center/master/tech/front-backend.png" width="692" height="582" align=center></img>
 </details>
 
+### 1.1 相关资料
+
+- [Web Development Cheat Sheet](https://pro.ctlok.com/blog/2012/04/03/web-app-development-cheat-sheet.html)
+
 ## 2. [HTML5 学习之路](/docs/html5.md)
 
 ### 2.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/1)
