@@ -18,30 +18,30 @@
 
 ## 2. [HTML5 学习之路](/docs/html5.md)
 
-### 2.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/1)
+### 2.1 [Issue](https://github.com/tbfed/febase/issues/1)
 
 ### 2.2 [一个基本的 HTML 页面模板](/docs/html_template.md)
 
 ## 3. [CSS 学习之路](/docs/css.md)
 
-### 3.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/2)
+### 3.1 [Issue](https://github.com/tbfed/febase/issues/2)
 
 ## 4. [JavaScript 学习之路](/docs/javaScript.md)
 
-### 4.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/3)
+### 4.1 [Issue](https://github.com/tbfed/febase/issues/3)
 
 ## 5. [Vue/React/Svelte 学习之路](/docs/framework.md)
 
-### 5.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/4)
+### 5.1 [Issue](https://github.com/tbfed/febase/issues/4)
 
 ## 6. [后端学习之路相关](/docs/front-backend.md)
 
-### 6.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/5)
+### 6.1 [Issue](https://github.com/tbfed/febase/issues/5)
 
 ## 7. [学习前端工具相关](/docs/tools.md)
 
-### 7.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/7)
+### 7.1 [Issue](https://github.com/tbfed/febase/issues/7)
 
 ## 8. [UI/UX 及其他相关](/docs/ui.md)
 
-### 8.1 [Issue](https://github.com/roadToFront-end/front-end_base/issues/8)
+### 8.1 [Issue](https://github.com/tbfed/febase/issues/8)
