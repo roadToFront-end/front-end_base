@@ -4,12 +4,17 @@
 
 100 天学习前端的路径示意图
 <details>
-  <img src="https://raw.githubusercontent.com/apanshi/pics_center/master/tech/front-end.png" width="692" height="485" align=center></img>
+  <img src="./imgs/front-end.png" width="692" height="485" align=center></img>
 </details>
 
 100 天学习后端的路径示意图
 <details>
-  <img src="https://raw.githubusercontent.com/apanshi/pics_center/master/tech/front-backend.png" width="692" height="582" align=center></img>
+  <img src="./imgs/front-backend.png" width="692" height="582" align=center></img>
+</details>
+
+全栈工程师技术栈示意图
+<details>
+  <img src="./imgs/full_stack_dev.jpg" width="692" height="582" align=center></img>
 </details>
 
 ### 1.1 相关资料
