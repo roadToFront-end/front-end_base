@@ -100,7 +100,20 @@ var p3 = p1.catch(function (result) {
 });
 
 new Promise(test).then(function (result) {
-    console.log("success-1 ：" + result);
+    console.log("success-1" + result);
 }).catch(function (reason) {
-    console.log('failed-1：' + reason);
+    console.log("failed-1" + reason);
 });
+
+
+let obj = {
+    "name": {
+        "first": "Pan",
+        "last": "Shi"
+    }
+}
+
+console.log(obj.name?.first);
+console.log(obj.name?.first ?? "N/A");
+console.log(obj.name?.middle);
+console.log(obj.name?.middle ?? "N/A");
