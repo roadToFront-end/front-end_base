@@ -5,6 +5,7 @@
 ## 版本控制
 
 - [Git](https://git-scm.com/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### 代码托管
 
@@ -44,7 +45,7 @@
 - [vscode（Visual Studio Code）](https://code.visualstudio.com/)
 - [Visual Studio](https://visualstudio.microsoft.com/zh-hans/)， *Windows 下 [C++](https://docs.microsoft.com/en-us/cpp/) 开发首选推荐*
 - [Atom](https://github.com/atom/atom)
-- [Vim](https://www.vim.org/) [备链-1](https://github.com/vim/vim)
+- [Vim](https://www.vim.org/) [备链-1](https://github.com/vim/vim) [备链-2](https://www.geekpanshi.com/archives/a7a1df11.html)
 - [Emacs（GNU Emacs）](https://www.gnu.org/software/emacs/)
 - [Sublime Text 4](https://www.sublimetext.com/blog/articles/sublime-text-4)，*付费软件*
 
